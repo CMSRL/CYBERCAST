@@ -92,7 +92,8 @@ You must set your own ArcGIS API Key:
 - [ ] ArcGIS SDK imported and API key configured
 - [ ] Android build target set + Magic Leap SDK + MRTK3 Magic Leap imported
 
-You should see the following packages within the Unity Package Manager
+You should see the following packages within the Unity Package Manager:
+
 ![Unity Packages](readme-images/final-package-list.png)
 
 ---
