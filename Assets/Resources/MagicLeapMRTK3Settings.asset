@@ -155,6 +155,8 @@ MonoBehaviour:
   version: 1
   editorSettings: {fileID: 7444036976853091336}
   permissionsConfig: {fileID: 5506287323876873374}
+  generalSettings: {fileID: 0}
+  rigConfig: {fileID: 0}
   openXRGeneralSettings: {fileID: -198438650750761829}
   openXRRigConfig: {fileID: -1103562828400833172}
   SelectedXRProvider: 0
