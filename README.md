@@ -19,8 +19,8 @@ Ensure you have the following installed on your machine before proceeding:
 git clone https://github.com/CMSRL/CYBERCAST.git
 ```
 
-- Open the project via Unity Hub using version `2022.3.48f1`.
-- When prompted about "Safe Mode," select **Ignore**.
+- Open the project via Unity Hub using version `2022.3.48f1`
+- When prompted about "Safe Mode," select **Ignore**
 
 ---
 
@@ -39,7 +39,7 @@ Install the following packages via Unity's **Package Manager**:
 ### 3. MRTK3 (Mixed Reality Toolkit 3) Configuration
 
 #### A. Install Mixed Reality Feature Tool
-Download and install the [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) to manage MRTK3 dependencies.
+Download and install the [Mixed Reality Feature Tool](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) to manage MRTK3 dependencies
 
 Install all MRTK3 Packages
 
@@ -54,6 +54,8 @@ Ensure Unity MRTK3 is installed within Magic Leap Hub 3
 Follow Magic Leap’s MRTK3 integration guide:  
 [Magic Leap MRTK3 Setup](https://developer-docs.magicleap.cloud/docs/guides/third-party/mrtk3/mrtk3-setup/)
 
+The tarball file should be located at: `~/MagicLeap/tools/unity/mrtk3/`
+
 ![File Location for Magic Leap MRTK3](readme-images/mrtk3-ml.png)
 
 ---
@@ -65,11 +67,11 @@ Install the **Magic Leap Setup Tool**:
 - [Unity Asset Store Link](https://assetstore.unity.com/packages/tools/integration/magic-leap-setup-tool-194780)  
 - [Configuration Guide](https://developer-docs.magicleap.cloud/docs/guides/unity/getting-started/configure-unity-settings/)
 
-> After installation, close and re-open the Unity project. Ignore the "Safe Mode" prompt again. Unity will detect Magic Leap and prompt for additional setup.
+> After installation, close and re-open the Unity project. Ignore the "Safe Mode" prompt again. Unity will detect Magic Leap and prompt for additional setup
 
 ![Magic Leap Setup Tool](readme-images/magicleap-setup-tool-unity.png)
 
-> Select 'Apply All' to fix broken settings
+Select 'Apply All' to fix broken settings
 
 ---
 
